@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ruvilet-jvm-1.0.0">
+    <output-path>$PROJECT_DIR$/ruvilet/build/libs</output-path>
+    <root id="archive" name="ruvilet-jvm-1.0.0.jar" />
+  </artifact>
+</component>
