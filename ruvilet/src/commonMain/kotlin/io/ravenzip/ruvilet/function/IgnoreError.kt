@@ -19,6 +19,6 @@ import kotlinx.coroutines.flow.emptyFlow
  * ```
  *
  * @return a new [Flow] that completes normally on error
- * @see [Русская документация](docs/ru/ignoreError.md)
+ * @see [Русская документация](docs/ru/IgnoreError.md)
  */
 fun <T> Flow<T>.ignoreError(): Flow<T> = this.catch { emitAll(emptyFlow()) }

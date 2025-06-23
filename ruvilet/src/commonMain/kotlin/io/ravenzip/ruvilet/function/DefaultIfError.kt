@@ -19,7 +19,7 @@ import kotlinx.coroutines.flow.catch
  * @param recoveryValue the value to be emitted when an error occurs
  * @return a new [Flow] that will emit [recoveryValue] instead of throwing an exception when an
  *   error occurs
- * @see [Русская документация](docs/ru/defaultIfError.md)
+ * @see [Русская документация](docs/ru/DefaultIfError.md)
  */
 inline fun <reified T> Flow<T>.defaultIfError(recoveryValue: T): Flow<T> =
     this.catch { emit(recoveryValue) }
