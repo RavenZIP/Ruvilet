@@ -13,9 +13,11 @@
 ## 🧐 О проекте / About
 
 ##### [RUS]
+
 Ruvilet — это Kotlin Multiplatform библиотека, которая расширяет стандартный функционал Kotlin Coroutines.
 
 ##### [ENG]
+
 Ruvilet is a Kotlin Multiplatform library that extends the standard functionality of Kotlin Coroutines.
 
 ## 🚀 Установка / Installation
@@ -29,10 +31,12 @@ Ruvilet is a Kotlin Multiplatform library that extends the standard functionalit
 ## 📜 Лицензия / License
 
 ##### [RUS]
-Распространяется по лицензии MIT. Подробности смотрите в разделе [ЛИЦЕНЗИЯ](/LICENSE).
+
+Распространяется по лицензии Apache 2.0. Подробности смотрите в разделе [ЛИЦЕНЗИЯ](/LICENSE).
 
 ##### [ENG]
-Distributed under the MIT License. See [LICENSE](/LICENSE) for details.
+
+Distributed under the Apache 2.0 License. See [LICENSE](/LICENSE) for details.
 
 ## 👾 Разработчик / Developer
 
